@@ -1,0 +1,14 @@
+Sagsnummer
+Sagsnavn
+
+CVR
+Bygherre
+Adresse
+Omfang
+Byggeplads adresse
+Administrator
+Dato
+
+Projektleder
+Projektleder tlf.
+Projektleder mail

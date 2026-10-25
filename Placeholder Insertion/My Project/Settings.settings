@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings"
+              CurrentProfile="(Default)"
+              UseMySettingsClassName="true">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <!--
+      SavedListPath  (User scope)
+      Stores the full file path of the last placeholder list file
+      selected by the user. Persists across Word sessions via
+      My.Settings.Save() / My.Settings.SavedListPath.
+    -->
+    <Setting Name="SavedListPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)"></Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
+
